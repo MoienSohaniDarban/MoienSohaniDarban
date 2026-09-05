@@ -1,17 +1,19 @@
 # Hi, I'm Moien Sohani-Darban 👋
 
-### Artificial Intelligence M.Sc. Student | Computer Vision & Machine Learning
+### Artificial Intelligence M.Sc. Student | Computer Vision & Machine Learning & Deep Learning & Natural Language Processing
 
-I am an Artificial Intelligence student interested in developing intelligent systems with a particular focus on **Computer Vision, Machine Learning, Deep Learning, and Medical AI**.
+I am an Artificial Intelligence student interested in developing intelligent systems with a particular focus on **Computer Vision, Machine Learning, Deep Learning, Natural Language Processing, and Medical AI**.
 
-My academic and technical work includes computer vision applications, object detection, conversational systems, and research-oriented machine learning projects.
+My academic and technical work includes computer vision applications, object detection, image processing, signal processing, conversational systems, and research-oriented machine learning projects.
 
 ## 🔬 Research Interests
 
 - Computer Vision
-- Machine Learning & Deep Learning
 - Medical AI & Biomedical Data Analysis
+- Machine Learning & Deep Learning
+- Natural Language Processing
 - Multimodal Learning
+- Autonomous Robotics 
 
 ## 🧠 Selected Projects
 
@@ -26,11 +28,13 @@ Computer vision project focused on human pose analysis and visualization.
 
 ## 🛠 Technical Skills
 
-**Programming:** Python, C/C++, MATLAB, JavaScript, SQL  
-**Machine Learning:** TensorFlow, Scikit-learn  
+**Programming:** Python, C/C++, MATLAB, SQL  
+**Machine Learning:** PyTorch, TensorFlow, Scikit-learn  
 **Computer Vision:** OpenCV, YOLO  
-**Data Analysis:** NumPy, Pandas, Matplotlib  
-**Development:** React.js, Git, Linux
+**Data Analysis:** NumPy, Pandas, Matplotlib
+**Tools:** Git, Linux
+**Web:** React.js, JavaScript, HTML/CSS, UI/UX Design
+**Others:** Logo Design, Scratch
 
 ## 📚 Research
 
