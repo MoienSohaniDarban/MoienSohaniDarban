@@ -31,10 +31,10 @@ Computer vision project focused on human pose analysis and visualization.
 **Programming:** Python, C/C++, MATLAB, SQL  
 **Machine Learning:** PyTorch, TensorFlow, Scikit-learn  
 **Computer Vision:** OpenCV, YOLO  
-**Data Analysis:** NumPy, Pandas, Matplotlib
-**Tools:** Git, Linux
-**Web:** React.js, JavaScript, HTML/CSS, UI/UX Design
-**Others:** Logo Design, Scratch
+**Data Analysis:** NumPy, Pandas, Matplotlib  
+**Tools:** Git, Linux  
+**Web:** React.js, JavaScript, HTML/CSS, UI/UX Design  
+**Others:** Logo Design, Scratch  
 
 ## 📚 Research
 
