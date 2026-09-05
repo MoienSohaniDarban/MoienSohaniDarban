@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Moien Sohani-Darban 👋
 
-<!--
-**MoienSohaniDarban/MoienSohaniDarban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Artificial Intelligence M.Sc. Student | Computer Vision & Machine Learning
 
-Here are some ideas to get you started:
+I am an Artificial Intelligence student interested in developing intelligent systems with a particular focus on **Computer Vision, Machine Learning, Deep Learning, and Medical AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My academic and technical work includes computer vision applications, object detection, conversational systems, and research-oriented machine learning projects.
+
+## 🔬 Research Interests
+
+- Computer Vision
+- Machine Learning & Deep Learning
+- Medical AI & Biomedical Data Analysis
+- Multimodal Learning
+
+## 🧠 Selected Projects
+
+### 🚗 Vehicle Detection using YOLOv4
+Video-based object detection using YOLOv4 and OpenCV DNN with confidence filtering, Non-Maximum Suppression, and CUDA-based inference.
+
+### 🤖 Rule-Based Conversational Chatbot
+A lightweight Python conversational system using tokenization, keyword matching, response scoring, required-word validation, and fallback handling.
+
+### 🧍 Human Pose Estimation
+Computer vision project focused on human pose analysis and visualization.
+
+## 🛠 Technical Skills
+
+**Programming:** Python, C/C++, MATLAB, JavaScript, SQL  
+**Machine Learning:** TensorFlow, Scikit-learn  
+**Computer Vision:** OpenCV, YOLO  
+**Data Analysis:** NumPy, Pandas, Matplotlib  
+**Development:** React.js, Git, Linux
+
+## 📚 Research
+
+Currently working on research projects involving machine learning, computer vision, and biomedical data analysis.
+
+## 📫 Connect with Me
+
+- LinkedIn: [Moien Sohani-Darban](https://www.linkedin.com/in/moien-sohani-darban)
+- GitHub: [MoienSohaniDarban](https://github.com/MoienSohaniDarban)
