@@ -4,9 +4,9 @@
 
 </div>
 
-### B.Sc. Computer Engineering | Computer Vision & Medical AI & Machine Learning & Deep Learning & Natural Language Processing
+### B.Sc. in Computer Engineering | Computer Vision & Medical AI & Machine Learning & Deep Learning & Natural Language Processing
 
-I am a B.Sc. Computer Engineering focused on developing intelligent systems, with a particular emphasis on **Computer Vision, Medical AI, Machine Learning, Deep Learning, and Natural Language Processing**.
+I am a B.Sc. in Computer Engineering focused on developing intelligent systems, with a particular emphasis on **Computer Vision, Medical AI, Machine Learning, Deep Learning, and Natural Language Processing**.
 
 My academic and technical work includes **computer vision applications, object detection, image processing, signal processing, conversational systems, and research-oriented machine learning** projects.
 
